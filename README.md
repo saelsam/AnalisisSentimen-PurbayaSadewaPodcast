@@ -78,3 +78,4 @@ F1-score
 😐 Netral → komentar informatif / tidak berpihak
 
 😡 Negatif → kritik / ketidaksetujuan
+
